@@ -185,7 +185,7 @@ src/
 
 ## 🚀 Deployment
 
-### Vercel link :
+### Vercel link : https://yatra-online-assessment.vercel.app/
 
 
 ### Manual Deployment
