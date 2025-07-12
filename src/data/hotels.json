@@ -1,0 +1,82 @@
+[
+  {
+    "id": "hotel-1",
+    "name": "The Royal Palace",
+    "city": "Delhi",
+    "rating": 4.5,
+    "price": 3500,
+    "facilities": ["Free WiFi", "AC", "Breakfast", "Spa", "Swimming Pool"],
+    "description": "Elegant stay with all modern amenities. Located in the heart of Delhi, this luxury hotel offers world-class service and comfort.",
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "id": "hotel-2",
+    "name": "Cozy Inn",
+    "city": "Mumbai",
+    "rating": 4.0,
+    "price": 2900,
+    "facilities": ["AC", "Parking", "Pet Friendly", "Restaurant"],
+    "description": "Comfortable rooms in the heart of the city. Perfect for business travelers and tourists alike.",
+    "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "id": "hotel-3",
+    "name": "Sunshine Residency",
+    "city": "Bangalore",
+    "rating": 3.8,
+    "price": 2200,
+    "facilities": ["WiFi", "Gym", "Breakfast", "Conference Room"],
+    "description": "Budget-friendly and centrally located. Ideal for both leisure and business travelers.",
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "id": "hotel-4",
+    "name": "Marina Bay Hotel",
+    "city": "Chennai",
+    "rating": 4.2,
+    "price": 3200,
+    "facilities": ["Free WiFi", "AC", "Sea View", "Restaurant", "Bar"],
+    "description": "Overlooking the beautiful Marina Beach, this hotel offers stunning views and excellent service.",
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "id": "hotel-5",
+    "name": "Heritage Grand",
+    "city": "Kolkata",
+    "rating": 4.3,
+    "price": 2800,
+    "facilities": ["WiFi", "AC", "Heritage Tours", "Library", "Garden"],
+    "description": "Experience the rich heritage of Kolkata in this beautifully restored colonial building.",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "id": "hotel-6",
+    "name": "Tech Hub Inn",
+    "city": "Pune",
+    "rating": 3.9,
+    "price": 2400,
+    "facilities": ["High-Speed WiFi", "AC", "Business Center", "Fitness Center"],
+    "description": "Perfect for tech professionals visiting Pune's IT hub. Modern amenities with a business focus.",
+    "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "id": "hotel-7",
+    "name": "Pink City Palace",
+    "city": "Jaipur",
+    "rating": 4.4,
+    "price": 3800,
+    "facilities": ["WiFi", "AC", "Cultural Shows", "Spa", "Rooftop Restaurant"],
+    "description": "Experience the royal charm of Jaipur with traditional architecture and modern comforts.",
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "id": "hotel-8",
+    "name": "Pearl City Hotel",
+    "city": "Hyderabad",
+    "rating": 4.1,
+    "price": 2600,
+    "facilities": ["WiFi", "AC", "Pearl Shopping", "Multi-Cuisine Restaurant"],
+    "description": "Located near the famous Charminar, this hotel offers easy access to Hyderabad's historic sites.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  }
+] 
