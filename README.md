@@ -10,6 +10,7 @@ A modern hotel search and booking application built with React, Next.js, and Typ
 - [Testing Strategy](#-testing-strategy)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
+- [Screenshots](#-screenshots)
 - [Deployment](#-deployment)
 
 ## 🚀 Setup Instructions
@@ -170,6 +171,17 @@ src/
     ├── data.ts           # Data handling utilities
     └── validation.ts     # Form validation utilities
 ```
+
+## 📸 Screenshots
+
+### Home Page - Hotel Search
+![Home Page - Hotel Search](/public/screenshots/Screenshot%202025-07-12%20at%208.37.08%20PM.png)
+
+### Hotel Results Page
+![Hotel Results Page](/public/screenshots/Screenshot%202025-07-12%20at%208.39.02%20PM.png)
+
+### Hotel Detail Page
+![Hotel Detail Page](/public/screenshots/Screenshot%202025-07-12%20at%208.39.14%20PM.png)
 
 ## 🚀 Deployment
 
